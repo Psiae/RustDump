@@ -4,3 +4,8 @@ pub(crate) mod logs;
 pub(crate) mod sublist;
 pub(crate) mod health_statistic;
 pub(crate) mod fib;
+pub(crate) mod reverse_string;
+pub(crate) mod gigaseconds;
+pub(crate) mod leap;
+pub(crate) mod armstrong_num;
+pub(crate) mod matching_brackets;

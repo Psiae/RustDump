@@ -1,6 +1,7 @@
 mod rbe;
 mod exercism;
+use std::time::Duration;
 
 fn main() {
-    rbe::hello_world::formatted_print::main()
+    println!("{}", exercism::gigaseconds::after(Duration::from_secs(1)).as_secs())
 }
