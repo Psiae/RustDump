@@ -9,3 +9,6 @@ pub(crate) mod gigaseconds;
 pub(crate) mod leap;
 pub(crate) mod armstrong_num;
 pub(crate) mod matching_brackets;
+pub(crate) mod beer_song;
+pub(crate) mod sqr_diff;
+pub(crate) mod high_score;
