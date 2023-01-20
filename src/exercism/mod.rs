@@ -12,3 +12,6 @@ pub(crate) mod matching_brackets;
 pub(crate) mod beer_song;
 pub(crate) mod sqr_diff;
 pub(crate) mod high_score;
+pub(crate) mod grains;
+pub(crate) mod prime_num;
+pub(crate) mod raindrops;

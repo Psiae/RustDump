@@ -1,3 +1,5 @@
+extern crate core;
+
 mod rbe;
 mod exercism;
 use std::time::Duration;
